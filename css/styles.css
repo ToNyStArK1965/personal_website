@@ -86,6 +86,10 @@ h3{
   padding: 100px 0;
 }
 
+.mountain-img{
+  vertical-align: bottom;
+}
+
 .pro{
   text-decoration: underline;
 }
